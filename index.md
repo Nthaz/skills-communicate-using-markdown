@@ -1,13 +1,13 @@
 # header one 
 ## header two
 ### header three
-![Image of Server Room](https://media.istockphoto.com/id/1334003868/photo/shot-of-a-young-woman-using-a-laptop-in-a-server-room.jpg?s=1024x1024&w=is&k=20&c=aaryzVtKPCwiQRx78lV6rbEmypsxl5N0IwUFIB3TdgY=)
+![Image of Server Room](https://t4.ftcdn.net/jpg/07/18/82/91/240_F_718829184_xEL6KQ22ysdth8awGRqPT0ozpcXpJbMH.jpg)
 
 ...
-funtionMajor( ) {
+funtionMajor() {
 alert("Major");
 }
 ...
 -[ ] Turn on Github pages
 -[ ] Outline my portfolio
--[ ] Intoduce myself to the world
+-[ ] Intoducing myself to the world
