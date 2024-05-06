@@ -9,8 +9,8 @@ alert("Major");
 }
 ...
 
--[ ] Turn on Github pages
+[ ] Turn on Github pages
 
--[ ] Outline my portfolio
+[ ] Outline my portfolio
 
--[ ] Intoducing myself to the world
+[ ] Intoducing myself to the world
