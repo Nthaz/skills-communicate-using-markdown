@@ -8,6 +8,9 @@ funtionMajor() {
 alert("Major");
 }
 ...
+
 -[ ] Turn on Github pages
+
 -[ ] Outline my portfolio
+
 -[ ] Intoducing myself to the world
